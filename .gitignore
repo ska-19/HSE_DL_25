@@ -175,3 +175,4 @@ cython_debug/
 
 #data
 /hw2/pokemon_data/images/*
+/hw4/data
