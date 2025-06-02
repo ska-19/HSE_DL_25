@@ -132,6 +132,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+venv12/
 ENV/
 env.bak/
 venv.bak/
@@ -175,4 +176,4 @@ cython_debug/
 
 #data
 /hw2/pokemon_data/images/*
-/hw4/data
+*/data
