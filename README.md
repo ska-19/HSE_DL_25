@@ -1,10 +1,11 @@
 # HSE_DL_25
 HSE Fundamentals of DL 2025
 
+> Семенкович Кирилл Александрович
 
-## виртуальное окружение
+## Виртуальное окружение
 ```
-python3 -m venv venv
+python3.12 -m venv venv
 source venv/bin/activate 
 ```
 
